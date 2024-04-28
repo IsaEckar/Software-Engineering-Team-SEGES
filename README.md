@@ -1,1 +1,1 @@
-# Software-Engineering-Team-SIEGES
+# Software-Engineering-Team-SEGES
